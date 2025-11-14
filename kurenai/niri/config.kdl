@@ -114,7 +114,7 @@ spawn-at-startup "waybar"
 spawn-sh-at-startup "gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'"
 spawn-sh-at-startup "gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'"
 
-spawn-sh-at-startup "swaybg -o DP-1 -i ~/documents/pictures/wallpapers/mori.jpg -o DP-2 -c 97565E"
+spawn-sh-at-startup "swaybg -o DP-1 -i ~/files/pictures/wallpapers/mori.jpg -o DP-2 -c 97565E"
 
 prefer-no-csd
 
