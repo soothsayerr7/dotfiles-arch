@@ -110,6 +110,7 @@ environment {
 
 spawn-at-startup "mako"
 spawn-at-startup "waybar"
+spawn-at-startup "plasma-polkit-agent"
 
 spawn-sh-at-startup "gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'"
 spawn-sh-at-startup "gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'"

@@ -88,6 +88,7 @@ environment {
 
 spawn-at-startup "mako"
 spawn-at-startup "waybar"
+spawn-at-startup "/usr/lib/polkit-kde-authentication-agent-1"
 
 spawn-sh-at-startup "gsettings set org.gnome.desktop.interface gtk-theme 'Adwaita-dark'"
 spawn-sh-at-startup "gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'"

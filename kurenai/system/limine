@@ -18,7 +18,7 @@ term_foreground_bright: e0def4
     cmdline: root=UUID=f5ace4c1-84ec-410c-b105-baac627df4bf rootflags=subvol=@ rw 
     module_path: guid(008d4843-1a6e-41c9-ac67-ec46e3049d38):/initramfs-linux-cachyos.img
 
-/Windows
+/Windows 11
     protocol: efi
     path: guid(91a14157-8543-401c-9075-32d71a2dedb5):/EFI/Microsoft/Boot/bootmgfw.efi
 
